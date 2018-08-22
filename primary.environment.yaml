@@ -6,13 +6,12 @@ channels:
 dependencies:
 - awscli
 - bamtools
-- bcftools==1.7
+- bcftools==1.9
 - blast
 - beagle
 - bedops
 - bedtools
 - bwa
-- freebayes==1.0.2
 - datamash
 - decorator
 - fastqc
@@ -50,7 +49,6 @@ dependencies:
 - scikit-bio
 - biopython
 - networkx
-- keras
 - pexpect
 - pigz
 - plink
@@ -75,13 +73,11 @@ dependencies:
 - unzip
 - rename
 - salmon
-- liknorm
 - gsort
 - kallisto
 - ucsc-bigwigtobedgraph
 - bioconductor-phyloseq
 - bioconductor-biocinstaller
 - bioconductor-biomart
-- scikit-allel
 - repeatmasker
 prefix: /usr/local/var/pyenv/versions/miniconda3-4.3.27/envs/primary-seq-env
