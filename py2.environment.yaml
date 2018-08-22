@@ -19,6 +19,7 @@ dependencies:
 - gsort
 - svtyper
 - python=2.7.14
+- smoove
 - pip:
   - vcf-kit
   - gsutil
