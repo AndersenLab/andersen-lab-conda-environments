@@ -10,7 +10,7 @@ dependencies:
 - numpy
 - awscli
 - samtools
-- bcftools
+- bcftools==1.9
 - pybedtools
 - pysam
 - svdb
